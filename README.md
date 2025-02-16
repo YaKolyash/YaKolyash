@@ -11,6 +11,7 @@
 ![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=typescript)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
 
 
 ### Follow Me
